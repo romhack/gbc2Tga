@@ -13,9 +13,11 @@ Please check my [notes](https://romhack.github.io/doc) for more information.
 
 ```
 Usage: gbc2Tga [-v]| NAME
-  NAME is a name for both NAME.gfx (binary tiles) and NAME.pal (binary palettes), which should be available in application's directory
+  NAME is a name for both NAME.gfx (binary tiles) and NAME.pal (binary palettes), 
+       which should be available in application's directory
   -v      show version number
 ```
 
 Source can be compiled with [Haskell stack](http://docs.haskellstack.org/en/stable/install_and_upgrade/). 
+
 Griever (romhack.github.io)
